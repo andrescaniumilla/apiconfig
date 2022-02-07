@@ -1,0 +1,14 @@
+server:
+  port: 3010
+
+spring:
+  profiles: dev
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include=*
+
+offers:
+  discount: 60%
