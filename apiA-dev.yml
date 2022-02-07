@@ -1,8 +1,8 @@
 server:
   port: 3010
 
-spring:
-  profiles: dev
+    #spring:
+    #profiles: dev
 
 management:
   endpoints:
