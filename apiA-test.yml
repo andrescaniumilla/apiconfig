@@ -1,9 +1,6 @@
 server:
   port: 4010
 
-spring:
-  profiles: test
-
 management:
   endpoints:
     web:
