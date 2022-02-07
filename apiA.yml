@@ -1,0 +1,10 @@
+server:
+  port: 3010
+offers:
+  discount: 60%
+management:
+  endpoints:
+    web:
+      exposure:
+        include=*
+
